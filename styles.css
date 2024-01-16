@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.animal-photos {
+	text-align: center;
+	background-color: gray
+}
+
+img {
+	width: 200px;
+	height: 200px;
+	border-radius: 10px;
+	margin: 5px
+}
